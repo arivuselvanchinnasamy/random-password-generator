@@ -12,6 +12,8 @@ Generate strong and secure passwords with this free online password generator. C
   - [Usage Example](#usage-example)
 - [Configuration](#configuration)
   - [Password Options](#password-options)
+- [Deployment](#deployment)
+ 
 
 ## Introduction
 
@@ -74,3 +76,5 @@ const passwordOptions = {
   includeSpecialChars: true,
 };
 ```
+## Deployment
+Deployed using Vercel. https://random-password-generator-flax.vercel.app/ 🚀
